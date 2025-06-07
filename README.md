@@ -24,11 +24,7 @@ Example:
 ## 🧠 Algorithms Implemented
 
 ✅ Depth-First Search (DFS)
-Todo :
-  Breadth-First Search (BFS)  
-  Dijkstra’s Algorithm  
-  A* Search  
-  More coming soon! (Feel free to contribute 🚀)
+More coming soon! (Feel free to contribute 🚀)
 
 
 
