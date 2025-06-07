@@ -18,8 +18,7 @@ Whether you're a student, educator, developer, or just curious about how A\* or 
 ## 🎥 Demo
 
 Example:  
-https://github.com/user-attachments/assets/518404c1-428f-46d6-ada1-b008cbfaf60b
-
+![Demo GIF](https://github.com/user-attachments/assets/f4710a0b-6c4a-4c05-8ac9-46e828ba9a88)
 ---
 
 ## 🧠 Algorithms Implemented
