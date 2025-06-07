@@ -1,7 +1,6 @@
 # 🚀 Path Explorer  
 *A dynamic visual tool to explore pathfinding algorithms*  
 
-![License](https://img.shields.io/github/license/Mayank-Golchha/Path-Explorer)  
 ![Python](https://img.shields.io/badge/python-3.x-blue)  
 ![Pygame](https://img.shields.io/badge/pygame-2.x-green)
 
@@ -18,7 +17,6 @@ Whether you're a student, educator, developer, or just curious about how A\* or 
 
 ## 🎥 Demo
 
-*(Insert a GIF or screenshot of your visualizer here!)*  
 Example:  
 https://github.com/user-attachments/assets/518404c1-428f-46d6-ada1-b008cbfaf60b
 
@@ -45,24 +43,12 @@ https://github.com/user-attachments/assets/518404c1-428f-46d6-ada1-b008cbfaf60b
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Language:** Python 3
-- **Graphics:** Pygame library
-
----
-
 ## 🚀 Installation & Usage
 
 1. Clone the repository:
     ```bash
     git clone https://github.com/Mayank-Golchha/Path-Explorer.git
     cd Path-Explorer
-    ```
-
-2. Install required dependencies:
-    ```bash
-    pip install pygame
     ```
 
 3. Run the visualizer:
@@ -86,12 +72,6 @@ I built this project to:
 - Practice Pygame and visualization
 - Help others **learn algorithms visually**  
 - Have fun with grids & code 🚀
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
