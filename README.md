@@ -29,7 +29,7 @@ Example:
 ✅ A* Search  
 ✅ More coming soon! (Feel free to contribute 🚀)
 
----
+
 
 ## 🎮 Features
 
@@ -40,7 +40,7 @@ Example:
 - Simple & intuitive UI
 - Easily extensible for more algorithms!
 
----
+
 
 ## 🚀 Installation & Usage
 
@@ -55,14 +55,14 @@ Example:
     python main.py
     ```
 
----
+
 
 ## 🌟 Contributing
 
 Contributions are welcome!  
 If you want to add more algorithms, improve visuals, or suggest features — feel free to fork and open a pull request.
 
----
+
 
 ## ⭐️ Why This Project?
 
@@ -72,7 +72,7 @@ I built this project to:
 - Help others **learn algorithms visually**  
 - Have fun with grids & code 🚀
 
----
+
 
 ## 🔗 Links
 
