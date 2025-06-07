@@ -23,8 +23,9 @@ Example:
 
 ## 🧠 Algorithms Implemented
 
-✅ Depth-First Search (DFS)
+✅ Depth-First Search (DFS)  
 ✅ More coming soon! (Feel free to contribute 🚀)
+
 
 
 
