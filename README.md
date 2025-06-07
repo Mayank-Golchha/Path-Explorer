@@ -12,7 +12,8 @@
 It allows you to explore, compare, and learn algorithms interactively on a customizable grid.
 
 Whether you're a student, educator, developer, or just curious about how A\* or Dijkstra works — this project is for you!
----
+
+
 ## 🎥 Demo
 Example:  
 ![Demo GIF](https://github.com/user-attachments/assets/f4710a0b-6c4a-4c05-8ac9-46e828ba9a88)
